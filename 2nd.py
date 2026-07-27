@@ -14,6 +14,18 @@ data = {
 
 df = pd.DataFrame(data, index=["Student# 01", "Student# 02", "Student# 03"])
 print(df)
+print()
 
+# add a new column
+df["Job"] = ["Software Enginner", "Singer", "Business Consultant"]
+print(df)
+print()
 
+# add a new row
+newRow = pd.DataFrame([{"Name": "saif", "Age": 22, "Grade":'C', "Job": "Unemployed"}], index=["Student# 04"])
+df = pd.concat([df, newRow])
+print(df)
+print()
+
+# Accessing 
 
