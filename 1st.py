@@ -22,8 +22,21 @@ print()
 # Accessing Values
 s3 = pd.Series([1,2,3,4,5], index=['a','b','c','d','e'])
 # by position
-print(s3[0])
-print(s3[4])
+print(s3.iloc[0])
+print(s3.iloc[4])
 # by label
 print(s3['b'])
 print(s3['e'])
+print()
+
+# Series Operations
+s4 = pd.Series([34, 55, 87, 32, 11, 90], index=['ali','muaz','sonic','ralph','demon','freiza'])
+print(s4.sum())
+print(s4.mean())
+print(s4.values)
+print(s4.index)
+print(s4.head())
+print(s4.tail())
+print(s4.max())
+print(s4.min())
+
