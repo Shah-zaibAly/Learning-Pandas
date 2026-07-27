@@ -28,5 +28,8 @@ print(df)
 print()
 
 # Accessing 
-
+print(df["Name"])  # for a column
+print(df["Job"])
+print(df.loc["Student# 01"])  # for a label-based selection
+print(df.iloc[3])  # for a position-based selection
 
