@@ -9,3 +9,7 @@ print(df)  # in this Name will serve as index
 print(df.loc["Pikachu"])  # selection by index
 print(df.loc["Charizard", ["Height","Weight"]])  # this will only display height and weight for charizard
 print(df.loc["Charizard":"Blastoise", ["Type1","Type2"]])  # this will display all the things bw charizard and blastoise including them too
+
+# Selection by Integers 
+print(df.iloc[0:11])  # display 0 to 10 indexes
+print(df.iloc[0:11:2]) # now with a gap of 2
