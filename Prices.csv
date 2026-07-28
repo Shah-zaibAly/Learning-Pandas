@@ -1,0 +1,141 @@
+Product,Category,Price,Stock,Rating
+Laptop Pro 15,Electronics,"$1,299.99",45,4.5
+Wireless Mouse,Electronics,"$29.99",230,4.2
+Mechanical Keyboard,Electronics,"$89.99",180,4.7
+USB-C Hub,Electronics,"$49.99",320,4.1
+Monitor 27inch,Electronics,"$399.99",67,4.6
+Webcam HD,Electronics,"$79.99",145,4.3
+Headphones Pro,Electronics,"$149.99",89,4.8
+Speaker Bluetooth,Electronics,"$59.99",210,4.4
+Tablet 10inch,Electronics,"$329.99",78,4.5
+Smartwatch Series 5,Electronics,"$249.99",92,4.6
+Phone Stand,Electronics,"$19.99",450,4.0
+Cable HDMI,Electronics,"$14.99",560,4.1
+Power Bank 20000,Electronics,"$49.99",280,4.5
+Earbuds Wireless,Electronics,"$99.99",165,4.6
+Router WiFi 6,Electronics,"$129.99",73,4.4
+SSD 1TB,Electronics,"$109.99",134,4.8
+RAM 16GB,Electronics,"$79.99",89,4.7
+Graphics Card,Electronics,"$599.99",23,4.9
+Processor i7,Electronics,"$349.99",34,4.8
+Motherboard ATX,Electronics,"$199.99",45,4.6
+Desk Lamp LED,Home,"$39.99",310,4.3
+Office Chair,Home,"$299.99",56,4.5
+Standing Desk,Home,"$499.99",34,4.7
+Bookshelf,Home,"$149.99",78,4.2
+Wall Clock,Home,"$24.99",230,4.1
+Picture Frame,Home,"$15.99",340,4.0
+Throw Pillow,Home,"$19.99",420,4.2
+Area Rug,Home,"$89.99",67,4.4
+Curtains Set,Home,"$49.99",145,4.1
+Bed Sheets,Home,"$59.99",189,4.5
+Coffee Maker,Kitchen,"$79.99",134,4.6
+Air Fryer,Kitchen,"$99.99",167,4.8
+Blender Pro,Kitchen,"$149.99",89,4.7
+Toaster Oven,Kitchen,"$69.99",112,4.3
+Rice Cooker,Kitchen,"$49.99",203,4.5
+Electric Kettle,Kitchen,"$39.99",267,4.4
+Food Processor,Kitchen,"$129.99",78,4.6
+Knife Set,Kitchen,"$89.99",145,4.7
+Cutting Board,Kitchen,"$24.99",310,4.2
+Mixing Bowls,Kitchen,"$34.99",256,4.3
+Running Shoes,Sports,"$129.99",89,4.5
+Yoga Mat,Sports,"$39.99",234,4.6
+Dumbbell Set,Sports,"$149.99",67,4.7
+Resistance Bands,Sports,"$24.99",340,4.4
+Jump Rope,Sports,"$14.99",450,4.2
+Water Bottle,Sports,"$29.99",380,4.5
+Gym Gloves,Sports,"$19.99",290,4.1
+Protein Shaker,Sports,"$15.99",410,4.0
+Foam Roller,Sports,"$34.99",178,4.6
+Backpack Sports,Sports,"$69.99",134,4.4
+Python Programming,Books,"$49.99",234,4.8
+Machine Learning Book,Books,"$59.99",189,4.9
+React Complete Guide,Books,"$44.99",267,4.7
+Clean Code,Books,"$39.99",312,4.8
+Deep Work,Books,"$24.99",423,4.9
+Atomic Habits,Books,"$18.99",567,4.9
+Zero to One,Books,"$22.99",345,4.8
+The Lean Startup,Books,"$19.99",289,4.6
+Meditations,Books,"$12.99",456,4.9
+Rich Dad Poor Dad,Books,"$15.99",534,4.5
+Notebook Premium,Stationery,"$14.99",456,4.3
+Pen Set,Stationery,"$19.99",567,4.4
+Highlighters Pack,Stationery,"$9.99",678,4.2
+Sticky Notes,Stationery,"$7.99",789,4.1
+Planner 2026,Stationery,"$24.99",345,4.6
+Index Cards,Stationery,"$5.99",567,4.0
+Whiteboard Markers,Stationery,"$12.99",345,4.3
+Stapler,Stationery,"$14.99",234,4.1
+Scissors Set,Stationery,"$9.99",456,4.2
+Tape Dispenser,Stationery,"$8.99",378,4.0
+Face Wash,Beauty,"$19.99",345,4.4
+Moisturizer SPF,Beauty,"$29.99",267,4.5
+Shampoo Pro,Beauty,"$24.99",312,4.3
+Conditioner,Beauty,"$22.99",289,4.4
+Body Lotion,Beauty,"$18.99",378,4.2
+Sunscreen SPF50,Beauty,"$15.99",423,4.6
+Lip Balm Pack,Beauty,"$9.99",567,4.3
+Eye Cream,Beauty,"$34.99",189,4.5
+Vitamin C Serum,Beauty,"$39.99",145,4.7
+Facial Mask Pack,Beauty,"$14.99",456,4.4
+Multivitamin,Health,"$29.99",345,4.5
+Vitamin D3,Health,"$14.99",456,4.6
+Fish Oil,Health,"$19.99",378,4.4
+Protein Powder,Health,"$49.99",234,4.7
+Creatine,Health,"$34.99",189,4.6
+Pre Workout,Health,"$44.99",167,4.5
+Melatonin,Health,"$12.99",456,4.3
+Zinc Supplements,Health,"$9.99",567,4.2
+Magnesium,Health,"$14.99",489,4.4
+Collagen Powder,Health,"$39.99",145,4.6
+Backpack 40L,Travel,"$89.99",134,4.6
+Travel Pillow,Travel,"$24.99",345,4.4
+Luggage 28inch,Travel,"$149.99",67,4.7
+Packing Cubes,Travel,"$34.99",256,4.5
+Travel Adapter,Travel,"$29.99",378,4.6
+Passport Holder,Travel,"$19.99",423,4.3
+Travel Towel,Travel,"$24.99",289,4.4
+Compression Sacks,Travel,"$22.99",234,4.2
+Money Belt,Travel,"$15.99",345,4.3
+Travel Lock,Travel,"$12.99",456,4.1
+LEGO Set 500pcs,Toys,"$49.99",134,4.7
+Board Game Classic,Toys,"$34.99",189,4.6
+Puzzle 1000pcs,Toys,"$24.99",267,4.5
+Card Game Pack,Toys,"$14.99",345,4.4
+Remote Car,Toys,"$39.99",156,4.3
+Drone Mini,Toys,"$79.99",89,4.5
+Action Figure,Toys,"$19.99",234,4.2
+Craft Kit,Toys,"$29.99",178,4.4
+Science Kit,Toys,"$44.99",145,4.6
+Drawing Set,Toys,"$24.99",267,4.3
+Guitar Acoustic,Music,"$199.99",45,4.7
+Ukulele Beginner,Music,"$79.99",89,4.5
+Capo Guitar,Music,"$19.99",234,4.3
+Picks Pack,Music,"$9.99",456,4.1
+Tuner Clip On,Music,"$14.99",345,4.4
+Music Stand,Music,"$34.99",167,4.2
+Drum Sticks,Music,"$19.99",289,4.3
+Keyboard 61 Key,Music,"$149.99",67,4.6
+Microphone USB,Music,"$89.99",123,4.7
+Headphones Studio,Music,"$249.99",56,4.8
+Dog Food Premium,Pet,"$49.99",234,4.6
+Cat Food Dry,Pet,"$39.99",289,4.5
+Pet Carrier,Pet,"$69.99",134,4.4
+Dog Leash,Pet,"$19.99",345,4.3
+Cat Toy Set,Pet,"$14.99",456,4.5
+Dog Bed Large,Pet,"$79.99",89,4.6
+Pet Brush,Pet,"$12.99",378,4.2
+Dog Collar,Pet,"$15.99",423,4.3
+Cat Litter Box,Pet,"$34.99",167,4.4
+Bird Cage,Pet,"$89.99",78,4.5
+Oil Paint Set,Art,"$49.99",145,4.6
+Canvas Pack,Art,"$34.99",189,4.5
+Paintbrush Set,Art,"$24.99",267,4.7
+Watercolor Set,Art,"$29.99",234,4.6
+Sketchbook A4,Art,"$19.99",345,4.4
+Charcoal Set,Art,"$14.99",423,4.3
+Colored Pencils,Art,"$22.99",378,4.5
+Drawing Tablet,Art,"$199.99",56,4.8
+Acrylic Paint,Art,"$39.99",167,4.5
+Easel Wooden,Art,"$79.99",89,4.6
